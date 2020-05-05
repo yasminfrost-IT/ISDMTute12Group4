@@ -1,9 +1,9 @@
 <h1> Problem Definition: Objectives & List of Stakeholders </h1>  
   
-** Objectives **  
+**Objectives**  
   
-** List of Stakeholders **  
+**List of Stakeholders**  
   
-** Empathy Map **  
+**Empathy Map**  
   
-** Assumptions **
+**Assumptions**
