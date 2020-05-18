@@ -15,12 +15,12 @@ Able to calculate and update the score based on previous call durations, perform
 
   
 **List of Stakeholders**  
-Travel Company CEO/Owner
-Relationship Managers (RM)
-Inbound customers
-End customers
-Government Legislation Department
-Maintenance Division
+Travel Company CEO/Owner <br/>
+Relationship Managers (RM) <br/>
+Inbound customers <br/>
+End customers <br/>
+Government Legislation Department <br/>
+Maintenance Division <br/>
 
   
 **Empathy Map**  
