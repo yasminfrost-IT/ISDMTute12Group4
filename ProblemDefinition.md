@@ -23,4 +23,9 @@ Government Legislation Department <br/>
 Maintenance Division <br/>
 
   
-**Assumptions**
+**Assumptions** <br/>
+Company’s employees, apart from Relationship managers, are out of scope for this report.
+Assume a customer had created a profile using the profiler tool before calling the CMC.
+Assuming the profiler tool is an external system that the new system interacts with.
+Assume RMs have to login to access the system using employee number and a pin.
+
