@@ -23,6 +23,4 @@ Government Legislation Department <br/>
 Maintenance Division <br/>
 
   
-**Empathy Map**  
-  
 **Assumptions**
