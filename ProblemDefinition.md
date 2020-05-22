@@ -6,12 +6,12 @@ The current system doesn’t provide a skill matching technique that matches cus
 Lack of an efficient and skill based target list that could be corresponding to customers/relationship managers profiles.
 
 **Objectives**  
-The objective of this project is to develop an information system that:
-offers customers a less time consuming, overwhelming approach to the company.
-improve the call flow rate of the company by using a skill matching based system that matches customers to relationship managers based on product knowledge and experience, and corresponding to cultural backgrounds and language proficiency among other things.
-Creates a potential target customers list from existing databases, and offers each RM with guidelines and proposed product based on their product knowledge/experience.
-Direct customers to interactive voice response that prompts the customer with options and handles call routing to relationship managers.
-Able to calculate and update the score based on previous call durations, performance and experience to each relationship manager.
+The objective of this project is to develop an information system that:<br/>
+offers customers a less time consuming, overwhelming approach to the company.<br/>
+improve the call flow rate of the company by using a skill matching based system that matches customers to relationship managers based on product knowledge and experience, and corresponding to cultural backgrounds and language proficiency among other things.<br/>
+Creates a potential target customers list from existing databases, and offers each RM with guidelines and proposed product based on their product knowledge/experience.<br/>
+Direct customers to interactive voice response that prompts the customer with options and handles call routing to relationship managers.<br/>
+Able to calculate and update the score based on previous call durations, performance and experience to each relationship manager.<br/>
 
   
 **List of Stakeholders**  
