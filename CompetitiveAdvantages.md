@@ -9,7 +9,7 @@ Discuss the competitive advantages might be gained in developing the new informa
 -	call centre is that the former provides additional services such as :VoIP Telephone Services
 -	customers are directed according to their needs with extension codes.
 -	Allows the owner to and the management to foresee and plan for future marketing if there are not enough bookings
--Reduces the cost for the business with new information system
+- Reduces the cost for the business with new information system
 
 •	Customers
 -	Customers/clients’ needs are fulfilled with the service provided by the business
