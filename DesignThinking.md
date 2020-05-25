@@ -5,7 +5,8 @@ To approach the ‘empathise’ element of design thinking, our group created an
 <h4> Define </h4>  
 When navigating the define element of design thinking we identified the core issues this project must tackle. They include: providing an unparralleled level of customer service, providing unique and accurate information about the desired travel destinations, showing our repeat customers that we value their loyalty through enhancements to our already high quality service.  
   
-Through our interviews we identified that extremely knowledgable *Relationship Managers* are the most salient selling point of this system. Pursuantly, a lot of effort should be put into how best to match the customers need with a staff member who can provide them with great information. Moreover, the RMs should be efficiently able to navigate the system to avoid any delays while liasing with customers. 
+  
+Through our interviews we identified that extremely knowledgable *Relationship Managers* are the most salient selling point of this system. Pursuantly, a lot of effort should be put into how best to match the customers need with a staff member who can provide them with great information, the RMs should be efficiently able to navigate the system to avoid any delays while liasing with customers. 
   
 <h4> Ideate </h4>  
 We found the Ideation technique of brainstorming to be very helpful. So, at this stage, we brainstormed possible solutions to the issues specified above. As we brainstormed, we thought about some customer service systems that we personally find incredibly efficient, easy to use and informative.  
