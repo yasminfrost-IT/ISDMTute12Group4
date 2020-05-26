@@ -3,9 +3,8 @@
 To approach the ‘empathise’ element of design thinking, our group created an empathy map. Here, we put ourselves in the customers position and were able to identify what the key needs and desires of the customer when they are contacting not only the company, but also the CMS. Having empathy is crucial to achieving human connection, so we interviewed people who identify as regular travellers to gain a deeper understanding on what they would want out of such a call centre. More specifically, what would motivate them to use this service over internet bookings that remove the intermediary? It has been repeatedly recognised that customers don't just want a service or a product, they want an experience also. Thus, it is crucial to the success of the CMS that the customer journey is complemented with staff expertly navigating their internal systems.    
   
 <h4> Define </h4>  
-When navigating the define element of design thinking we identified the core issues this project must tackle. They include: providing an unparralleled level of customer service, providing unique and accurate information about the desired travel destinations, showing our repeat customers that we value their loyalty through enhancements to our already high quality service.  
-  
-  
+When navigating the define element of design thinking we identified the core issues this project must tackle. They include: providing an unparralleled level of customer service, providing unique and accurate information about the desired travel destinations, showing our repeat customers that we value their loyalty through enhancements to our already high quality service. <br/>
+<br/>
 Through our interviews we identified that extremely knowledgable *Relationship Managers* are the most salient selling point of this system. Pursuantly, a lot of effort should be put into how best to match the customers need with a staff member who can provide them with great information, the RMs should be efficiently able to navigate the system to avoid any delays while liasing with customers. 
   
 <h4> Ideate </h4>  
