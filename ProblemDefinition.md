@@ -25,8 +25,9 @@ Maintenance Division <br/>
   
 **Assumptions** <br/>
 Company’s employees, apart from Relationship managers, are out of scope for this report. <br/>
-a customer had created a profile using the profiler tool before calling the CMC. <br/>
-the profiler tool is an external system that the new system interacts with. <br/>
+A customer had created a profile using the profiler tool before calling the CMC. <br/>
+The profiler tool is an external system that the new system interacts with. <br/>
 RMs have to login to access the system using employee number and a pin. <br/>
-RM needs to create a profile by answering a questionnaire at first before they can access the system 
+RM needs to create a profile by answering a questionnaire at first before they can access the system. <br/>
+The company's hardware is capable of supporting the new information system.
 
