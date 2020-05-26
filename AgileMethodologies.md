@@ -1,5 +1,4 @@
 <h3> Agile Methodologies </h3> <br/>
-<br/>
 Using agile methodologies to approach information systems development promotes flexible planning, piecemeal development, early delivery, continued improvement and advances team members ability to respond to ambiguity. <br/>
 <br/>
 In this instance, our team decided to use the SCRUM approach to agile systems development. The SCRUM activitves we utilised in order to complete this project include: <br/>
