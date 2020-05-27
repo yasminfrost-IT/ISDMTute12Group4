@@ -10,12 +10,12 @@ Through our interviews we identified that extremely knowledgable *Relationship M
 <h4> Ideate </h4>  
 We found the Ideation technique of brainstorming to be very helpful. So, at this stage, we brainstormed possible solutions to the issues specified above. As we brainstormed, we thought about some customer service systems that we personally find incredibly efficient, easy to use and informative. At this stage we also asked ourselves the following questions: Who is this IS aiming to help? What is this IS aiming to do? Why does the client need this IS? When does the client need the IS? Which ultimately lead to the question of how do we create this IS? <br/>  
 <br/>
-Some key conclusions our group came to at this stage include: a general concensus amongst our group that systems that have too many screens become clunky and hard to navigate. As a result, we want our system to have only a few main screens and fit as much information as possible onto those screens using easy to understand graphics and imagery.  
+Some key conclusions our group came to at this stage include: a general consensus amongst our group that systems that have too many screens become clunky and hard to navigate. As a result, we want our system to have only a few main screens and fit as much information as possible onto those screens using easy to understand graphics and imagery.  
   
 <h4> Prototype </h4>  
 At this stage we were able to get a little more creative. We started by doing a paper prototype, drawing multiple versions of the screen on a paper and doing a rough sketch of what we invision the system to look like. We incrementally increased the fidelity of such drawings and made sure to get feedback from other team members everytime something was changed. We then moved from a paper prototype to the web-based application proto.io to bring these drawings to life. The benefit of this application is that it helps you produce an interactive protoype. <br/>
 <br/>
-Rearch was done to understand what design choices are best in these systems. 'Open Sans' is a humanist font collection and it has been repeatedly heralded as one of the most effective font choices in modern UI design. 
+Research was done to understand what design choices are best in these systems. 'Open Sans' is a humanist font collection and it has been repeatedly heralded as one of the most effective font choices in modern UI design. 
   
 <h4> Test </h4>    
 To test our interactive prototypes, we invited other students with no background knowledge in UI or IT to do user testing on our prototypes. Here we were able to identify if the way we designed the application was truly intuitive. These testers commented on where they think buttons would be better placed or if the colour of the screen seemed mismatched to the task at hand. After each user, the suggested changes were implemented and verified against the next testers opinion to ensure common concensus on the feedback.  
