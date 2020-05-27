@@ -21,7 +21,11 @@ Discuss the competitive advantages might be gained in developing the new informa
 -	Efficient system of orders going straight into the database that are easily assessible 
 -	 Staff can keep track and up to date with new information system 
 
-
+•	Budgeting
+-	 Run budget things keep the organization working. Illustrations of Run budget things incorporate mission-critical server substitutions, key program updates and work force costs related with regulating and keeping up the IT framework on a day-to-day premise.
+-	 Develop budget things offer assistance the organization present unused capabilities or progress existing ones. Develop activities might incorporate the execution of modern program that creates operations more proficient, the buy of a modern firewall that gives extra security from cyber dangers or an overhaul of the organization’s site that progresses interactivity with clients.
+-	Oganizations that have to trim IT budgets should avoid cutting Run initiatives. Such cuts would introduce operational risk. 
+-	Change budget things are inquire about- and-development-type exercises. These activities might look for to distinguish, for case, the correct advances for modern organizational capabilities; essential changes to trade forms; or a unused item or benefit advertising.
 
 Possible effects of failure for the business information system
 
