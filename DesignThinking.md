@@ -5,7 +5,7 @@ To approach the ‘empathise’ element of design thinking, our group created an
 <h6> Define </h6>  
 When navigating the define element of design thinking we identified the core issues this project must tackle. They include: providing an unparralleled level of customer service, providing unique and accurate information about the desired travel destinations, showing our repeat customers that we value their loyalty through enhancements to our already high quality service. <br/>
 <br/>
-Through our interviews we identified that extremely knowledgable *Relationship Managers* are the most salient selling point of this system. Pursuantly, a lot of effort should be put into how best to match the customers need with a staff member who can provide them with great information, the RMs should be efficiently able to navigate the system to avoid any delays while liasing with customers. 
+Through our interviews we identified that extremely knowledgable Relationship Managers are the most salient selling point of this system. Pursuantly, a lot of effort should be put into how best to match the customers need with a staff member who can provide them with great information, the RMs should be efficiently able to navigate the system to avoid any delays while liasing with customers. 
 <br/>
 <h6> Ideate </h6>  
 We found the Ideation technique of brainstorming to be very helpful. So, at this stage, we brainstormed possible solutions to the issues specified above. As we brainstormed, we thought about some customer service systems that we personally find incredibly efficient, easy to use and informative. At this stage we also asked ourselves the following questions: Who is this IS aiming to help? What is this IS aiming to do? Why does the client need this IS? When does the client need the IS? Which ultimately lead to the question of how do we create this IS? <br/>   
@@ -17,6 +17,6 @@ At this stage we were able to get a little more creative. We started by doing a 
 <br/>
 We did research into what design choices are best in these systems. For exmaple, 'Open Sans' is a humanist font collection and it has been repeatedly heralded as one of the most effective font choices in modern UI design. Thus, we chose to incorporate it in our prototype.
 <br/>
-<h6> Test </h6> <br/>    
+<h6> Test </h6>  
 To test our interactive prototypes, we invited other students with no background knowledge in UI or IT to do user testing on our prototypes. Here we were able to identify if the way we designed the application was truly intuitive. These testers commented on where they think buttons would be better placed or if the colour of the screen seemed mismatched to the task at hand. After each user, the suggested changes were implemented and verified against the next testers opinion to ensure common concensus on the feedback.  
 
