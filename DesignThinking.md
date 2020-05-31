@@ -17,6 +17,6 @@ At this stage we were able to get a little more creative. We started by doing a 
 <br/>
 We did research into what design choices are best in these systems. For exmaple, 'Open Sans' is a humanist font collection and it has been repeatedly heralded as one of the most effective font choices in modern UI design. Thus, we chose to incorporate it in our prototype.
 <br/>
-<h6> Test </h6>    
+<h6> Test </h6> <br/>    
 To test our interactive prototypes, we invited other students with no background knowledge in UI or IT to do user testing on our prototypes. Here we were able to identify if the way we designed the application was truly intuitive. These testers commented on where they think buttons would be better placed or if the colour of the screen seemed mismatched to the task at hand. After each user, the suggested changes were implemented and verified against the next testers opinion to ensure common concensus on the feedback.  
 
