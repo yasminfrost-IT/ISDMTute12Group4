@@ -15,5 +15,5 @@ The ultimate purpose of these meetings was to commit to a sprint goal. Examples 
 <h6> Sprint Reviews. </h6> <br/>
 These were performed once a week to analyse our progress, compare it to our predicted timeline and create suggestions for the direction of future work. This also allowed team members to review the work of other team members, providing feedback and iteratively updating the work. These meetings were where we compiled a sprint backlog of completed tasks that were ready for the final report. Here we ensured consistency amongst the work of individual team members and collated the smaller tasks that were assigned in the sprint planning meeting. We also evaluated our performance over the last sprint and identified what worked well and what could be improved in the next sprint. <br/>
 <br/>
-</h6> Product Backlog. </h6> <br/>
+<h6> Product Backlog. </h6> <br/>
 This is a list of functional and non-functional requirements that reflect the vision our team has. This helps identify the individual tasks we should be working on throughout the project.
